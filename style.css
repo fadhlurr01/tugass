@@ -17,3 +17,8 @@ color: mediumblue;
 .logo span {
     color: #fff;
 }
+
+::selection {
+background: orange;
+color:blue;
+}
